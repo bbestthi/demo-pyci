@@ -1,4 +1,5 @@
 Continuous Integration Demo
+[![Build Status](https://travis-ci.com/bbestthi/demo-pyci.svg?branch=master)](https://travis-ci.com/bbestthi/demo-pyci)
 ============================
 
 This project demonstrates use of Travis CI to build and test a Python project.  
@@ -149,6 +150,6 @@ You should read and understand these short documents:
 
 [travis-ci-concepts]: https://docs.travis-ci.com/user/for-beginners/
 
-[![Build Status](https://travis-ci.com/bbestthi/demo-pyci.svg?branch=master)](https://travis-ci.com/bbestthi/demo-pyci)
+
 
 
